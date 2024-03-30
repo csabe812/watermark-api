@@ -1,0 +1,17 @@
+{
+  "name": "watermark-api",
+  "version": "1.0.0",
+  "description": "A watermark REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Csaba Fulop",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
